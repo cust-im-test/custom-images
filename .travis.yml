@@ -4,4 +4,4 @@ dist: focal
 
 vm:
   create:
-    name: cust-im-test-i1
+    name: cust-im-test-i2
