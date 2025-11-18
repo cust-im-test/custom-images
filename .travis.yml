@@ -3,7 +3,5 @@ language: generic
 dist: focal
 
 vm:
-  size: gpu-medium
-
-script:
-  - echo "Testing GPU options"
+  create:
+    name: cust-im-test-i1
